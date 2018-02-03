@@ -13,6 +13,10 @@ Hardware
 * LED
 * 1k Resistor
 
+Circuit
+--------
+![blink_led](circuit/blink_led.png)
+
 Installation
 ------------
 You will need to have the AVR toolchain installed on your system. This includes:
